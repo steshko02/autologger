@@ -1,0 +1,8 @@
+<!--<aspectj>-->
+<!--    <aspects>-->
+<!--        <aspect name="senla.steshko.aop.LoggAspect"/>-->
+<!--        <weaver options="-verbose -showWeaveInfo">-->
+<!--            <include within="senla.steshko.*"/>-->
+<!--        </weaver>-->
+<!--    </aspects>-->
+<!--</aspectj>-->
